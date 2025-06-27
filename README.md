@@ -13,14 +13,6 @@
 - 📚 Interested in AI, NLP, data storytelling, and full-stack development
 
 
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vallisisirasista&show_icons=true&theme=github_dark&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vallisisirasista&layout=compact&theme=github_dark)
-
-
-
 ## 📬 Let's Connect
 
 - 📧 [Email](mailto:svallisisira@gmail.com)  

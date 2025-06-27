@@ -23,8 +23,8 @@
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vallisisirasista&show_icons=true&theme=github_dark&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vallisisirasista&layout=compact&theme=github_dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ValliSisira&show_icons=true&theme=github_dark&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ValliSisira&layout=compact&theme=github_dark)
 
 ---
 

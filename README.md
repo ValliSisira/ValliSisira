@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hi there! I'm Valli Sisira Sista
 
-<!--
-**ValliSisira/ValliSisira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 A Computer Science graduate student at the **University of Houston** (Class of 2025)  
+💡 Passionate about building with code, exploring data, and designing clean, insightful visuals
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 About Me
+
+- 🧠 Always curious and learning — whether it's machine learning, web dev, or data viz
+- 🔍 Love exploring patterns in data and creating interactive dashboards
+- 💻 Enjoy working on personal projects that combine creativity and technology
+- 📚 Interested in AI, NLP, data storytelling, and full-stack development
+
+
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vallisisirasista&show_icons=true&theme=github_dark&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vallisisirasista&layout=compact&theme=github_dark)
+
+
+
+## 📬 Let's Connect
+
+- 📧 [Email](mailto:svallisisira@gmail.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/valli-sisira-sista-52882a237/)  
+- 🌐 [Portfolio](#)
+
+---
+
+Thanks for stopping by! 🚀

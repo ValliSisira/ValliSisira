@@ -26,12 +26,12 @@
 
 <div align="center">
 
-  <a href="https://github.com/vallisisirasista">
+  <a href="https://github.com/ValliSisira">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ValliSisira&theme=github_dark" />
   </a>
   <br/>
 
-  <a href="https://github.com/vallisisirasista">
+  <a href="https://github.com/ValliSisira">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValliSisira&layout=compact&theme=github_dark&langs_count=10" />
   </a>
 </div>
